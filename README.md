@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Shibam!]
+### Hey 👋🏽, I'm Shibam
 
 <br/>
 
