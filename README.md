@@ -1,3 +1,7 @@
+<!-- intro hello world -->
+<h1 align="center">
+𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃! <img src="https://raw.githubusercontent.com/Sagar0-0/Sagar0-0/main/GIF/Earth.gif" width="24px">
+
 ### Hey 👋🏽, I'm Shibam
 
 <br/>
@@ -40,6 +44,20 @@ Hi, I'm Shibam Nath, a Data Science Enthusiast 🚀 from India, currently, I'm a
 ### **Graphical Trekings:**
 ![Graphical Progress](https://activity-graph.herokuapp.com/graph?username=shibam120302&hide_border=true&area=true&point=transparent%22)
 
+<hr>
 
+<!-- streak and trophies -->
+<p align="center">
+  <img height="120" width="110" src="https://raw.githubusercontent.com/Sagar0-0/Sagar0-0/main/WEBP/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shibam120302&theme=dark&hide_border=true"/>
+  <img height="120" width="110" src="https://raw.githubusercontent.com/Sagar0-0/Sagar0-0/main/WEBP/right.webp">
+</p>
+
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=shibam120302&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/shibam120302)
+<br>
+
+<hr>
+  
+  
 ![Shibam's github stats](https://github-readme-stats.vercel.app/api?username=shibam120302&show_icons=true&hide_border=true)<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
 
