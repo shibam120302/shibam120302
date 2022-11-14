@@ -2,7 +2,13 @@
 <h1 align="center">
 𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃! <img src="https://raw.githubusercontent.com/Sagar0-0/Sagar0-0/main/GIF/Earth.gif" width="24px">
 
-### Hey 👋🏽, I'm Shibam
+  
+  
+  
+   ![hey](https://media.tenor.com/yCFHzEvKa9MAAAAj/hello.gif) 
+  
+  ##             I'm Shibam
+
 
 <br/>
 
