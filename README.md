@@ -13,7 +13,7 @@
 <br/>
 
 
-<a href="https://www.linkedin.com/in/shibam-nath-0a23a6227/">
+<a href="https://www.linkedin.com/in/shibam-nath/">
   <img align="left" alt="Sounish's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
