@@ -67,3 +67,48 @@ Hi, I'm Shibam Nath, a Data Science Enthusiast 🚀 from India, currently, I'm a
   
 ![Shibam's github stats](https://github-readme-stats.vercel.app/api?username=shibam120302&show_icons=true&hide_border=true)<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
 
+### ✍️ Random Dev Quote
+
+<img align="right" height="100" width="100" src="https://gifdb.com/images/high/happy-boy-darndest-things-mlpujm6ekaxjs6ld.webp" width="930"/>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+<!--
+
+
+<table>
+ <!-- <tr>
+    <td><h3>You are Visitor No.: </h3></td>
+    <td><img src="https://profile-counter.glitch.me/Mugdha-Hazra/count.svg" alt="vistor count" height="45" /></td>
+  </tr> -->
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ayushsoni1010/ayushsoni1010/main/dino.gif" width="50.5%" height="197" > 
+ <pre>
+----------------------------------------
+<span># Byee Byee Have a nice day!!</span>
+----------------------------------------
+----------------------------------------
+    ~`\   ^__^
+       \  (oo)\_______
+^^^^      (__)\ 0   0 )\  *
+^^   ^^^^     ||--0-w | \/    ^^^^ 
+  ^^^^^^     _||    _||  ^^^^
+  
+</pre>
+</table>
+<!-- adding goru(cow)(handmade cow)-->
+<!--
+For adding portfolio.
+
+### Visit my detailed ![profile](https://drive.google.com/file/d/1_ks4MSCqJwOaIYi-wz1g-Bv0NB2By_7y/view?usp=sharing)
+for dino game
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ayushsoni1010/ayushsoni1010/main/dino.gif" width="48.5%" height="230" >
+-->
+<p align="Center">
+ <img src="https://emojis.slackmojis.com/emojis/images/1616110799/22173/bye.gif?1616110799" width="60" /><strong>Bye-Bye</strong><img src="https://emojis.slackmojis.com/emojis/images/1616110799/22173/bye.gif?1616110799" width="70" /> 
+</p>
+<br>
+<br>
+  
+
+<
