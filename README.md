@@ -35,7 +35,7 @@ Hi, I'm Shibam Nath, a Data Science Enthusiast 🚀 from India 5🌟@CodeChef, S
 
 - 📝 I regularly write articles on [https://medium.com/@shibamnath12032002](https://medium.com/@shibamnath12032002)
 
-- 🌟LinkPop [Connect With Me](https://linkpop.com/shibamnath)
+- 🌟LinkPop [Check My Work](https://linkpop.com/shibamnath)
   
   💬 Ask me about **JavaScript, React**
 
