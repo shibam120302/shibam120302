@@ -25,7 +25,7 @@
 
 <br />
 
-Hi, I'm Shibam Nath, a Data Science Enthusiast 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️  Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Shibam Nath, a Data Science Enthusiast 🚀 from India 5🌟@CodeChef, Specialist @CodeForce, currently, I'm a Community Team Member 🙍🏽‍♂️  Beside's programming, I enjoy eating food and traveling.
 
 <br />
 
