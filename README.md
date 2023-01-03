@@ -65,6 +65,13 @@ Hi, I'm Shibam Nath, a Data Science Enthusiast 🚀 from India 5🌟@CodeChef, S
 
 <hr>
   
+ # Productivity Stats📈:
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shibam120302&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+</table>
+ 
   
 ![Shibam's github stats](https://github-readme-stats.vercel.app/api?username=shibam120302&show_icons=true&hide_border=true)<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
 
@@ -114,5 +121,5 @@ for dino game
 <
 
 
-
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+
